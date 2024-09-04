@@ -813,6 +813,8 @@ section,
   margin-top: -2px;
   border-left: 2px solid var(--accent-color);
   position: relative;
+  white-space:nowrap;
+
 }
 
 .resume .resume-item h4 {
@@ -872,6 +874,7 @@ section,
   margin-top: -2px;
   border-left: 2px solid var(--accent-color);
   position: relative;
+  white-space: nowrap ;
 }
 
 .education .education-item h4 {
