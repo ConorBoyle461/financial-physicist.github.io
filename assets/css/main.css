@@ -895,7 +895,11 @@ section,
 }
 
 .education .education-item ul {
+  columns: 2;
   padding-left: 40px;
+  -webkit-columns: 2 ;
+  -moz-columns: 2;
+  line-height: 10px;
 }
 
 .education .education-item ul li {
